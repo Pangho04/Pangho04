@@ -25,7 +25,7 @@
 
 <h3>
   <img src="https://github.com/user-attachments/assets/47a8cf73-e1b3-485a-8037-da1170d10176" width="20" />
-  <a href="https://github.com/team-sticky-252/readim-client">Readim</a>
+  <a href="https://github.com/Pangho04/readim-client">Readim</a>
 </h3>
 
 - 아티클 리딩 타임 제공 웹 서비스
